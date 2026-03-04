@@ -1,0 +1,30 @@
+Flask
+
+# Market Data APIs
+yfinance
+finnhub-python
+polygon-api-client
+
+# Trading Platforms
+alpaca-trade-api
+ib_insync
+
+# Sentiment Analysis
+vaderSentiment
+textblob
+
+# Technical Analysis
+ta-lib
+
+# Database
+SQLAlchemy
+psycopg2
+
+# Redis
+redis
+
+# Task Queue
+celery
+
+# Other Utilities
+requests
